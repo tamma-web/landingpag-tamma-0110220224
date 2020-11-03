@@ -1,1 +1,39 @@
-https://code.sololearn.com/W68T4nds4G0D/?ref=app
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <title>daskus store</title>
+        <link rel= "stylesheet" href="landing-tys.css">
+    </head>
+    <body>
+    <img src="https://bobo.grid.id/amp/082180745/koala-hampir-selalu-berada-di-atas-pohon-bagaimana-cara-koala-minum"alt />
+    <h1>daksus store</h1>
+    <nav>
+        <ul>
+            <li>
+            <a>home</a>
+            </li>
+            <li>
+            <a>about</a>
+            </li>
+            <li><a>contact</a>
+            </li>
+            <li>
+            <a>whistlist</a>
+            </li>
+        </ul>
+        </nav>
+        <section class="box-sec">
+        <div class="box">
+    <h1>daksus store adalah</h1>
+    <p>websaite e-commerce yang bertujuan untuk menjual berbagai pakaian,hoddie,dan celana yang tentu saja sangat menarik untuk dimiliki,disamping itu daskus store kini tampil dengan vitur-vitur yang menarik untuk dipergunakaan</p>
+    </div>
+    <p>follow kami di</p>
+    <div>
+        <ul>
+            <li><a href="https://www.instagram.com/p/CEBxlkrpWgL/?igshid=1l3jzl6ksrpgs"> instagram </a></li>
+            <li><a href="https://www.facebook.com/tamma.yusuf.39">facebook</a></li>
+        </ul>
+    </div> 
+    
+    </body>
+</html>
